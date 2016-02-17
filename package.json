@@ -1,0 +1,19 @@
+{
+  "name": "vdom",
+  "version": "0.0.1",
+  "description": "a virtual demo",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "virtual",
+    "dom",
+    "demostration"
+  ],
+  "author": "foio",
+  "license": "ISC",
+  "dependencies": {
+    "list-diff2": "^0.1.4"
+  }
+}
